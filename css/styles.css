@@ -1,0 +1,146 @@
+
+/* Navigation Bar */
+
+ul li a {
+  height: 96px;
+  width: 100px;
+}
+
+.logo {
+  margin-left: 15%;
+  width: 15%;
+}
+
+
+/* Fist Section */
+
+
+#first-section {
+  background-color: #edc1d2;
+}
+
+.first-section-image {
+  width: 60%;
+  position: absolute;
+  left: 25%;
+}
+
+.text-align {
+  margin-left: 50px;
+  text-align: center;
+  font-family: 'Ubuntu';
+}
+.container-fluid {
+  padding-top: 25px;
+  padding-left: 125px;
+  padding-right: 65px;
+  padding-bottom: 105px;
+}
+
+
+/* Second Section */
+
+.second-section {
+  background-color: #f4f7fe;
+}
+
+
+.second-section-image {
+  width: 60%;
+  margin-left: 160px;
+  position: absolute;
+  right: 100px;
+}
+
+.all-elements {
+  text-align: center;
+  font-family: "Ubuntu";
+  margin-left: 200px;
+  margin-top: 50px;
+}
+
+
+
+/* Third Section */
+
+#third-section {
+  background-color: #f5d389;
+}
+
+.third-section-image {
+  margin-left: 100px;
+  width: 60%;
+}
+
+.tilte {
+  text-align: center;
+  margin-top: 15%;
+}
+
+.title-image {
+  position: relative;
+  left: 25%;
+  margin-top: 8%;
+}
+.sectionThird {
+  margin-top: 20px;
+}
+
+.title-image {
+  position: relative;
+  left: 0;
+  right: 0;
+}
+
+
+/* Section Fourth */
+
+#five-section {
+  margin-top: 100px
+}
+
+#fourth-section {
+  background-color: #edc1d2;
+}
+
+.about-us {
+  width: 15%;
+}
+
+.aboutus-Section {
+  text-align: center;
+  font-family: "Ubuntu";
+}
+
+
+
+/* Five Section  */
+#five-section {
+  background-color: #f4f7fe;
+}
+
+.all-things {
+  text-align: center;
+  font-family: "Ubuntu";
+}
+
+
+.image {
+  width: 30%;
+  border-radius: 50%;
+
+
+
+}
+
+/* Footer Section */
+
+#footer {
+  padding: 7% 15%;
+  text-align: center;
+  background-color: #edc1d2;
+}
+
+.social-icon {
+  margin: 20px 10px;
+}
